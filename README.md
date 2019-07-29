@@ -4,7 +4,7 @@ a simple pytorch implement of [Multi-Sample Dropout for Accelerated Trainingand 
 
 ## model 
 
-![](./png/dropout.png)
+![](./png/dropout.PNG)
 
 ## example
 
